@@ -1,2 +1,2 @@
-# DNS_Media_Ulock
+# DNS_Media_Unlock
 A config for dnsmasq server
